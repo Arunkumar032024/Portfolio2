@@ -4,3 +4,7 @@ A portfolio website built with Bootstrap offers a seamless blend of functionalit
 Add setup and favicon icon
 <br>
 Basic file setup
+<br>
+Add header
+<br>
+Add navbar

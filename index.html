@@ -33,7 +33,41 @@
         <!-- End header section  -->
         <!-- nav section  -->
         <nav>
+          <div class="offcanvas offcanvas-start" id="demo">
+            <div class="offcanvas-header d-flex align-items-start">
+              
+              <div class="offcanvas-title ">
+                <img src="assets/images/nav_header_logo.jpg" alt="logo" class="img-fluid rounded" width="150"><br>
+                <h1 class="fs-4 mt-3">PERSON_NAME</h1>
+              </div>
+              <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"></button>
+            </div>
+            <div class="offcanvas-body mt-0 ms-0">
+              <ul class="nav nav-tabs flex-column">
+                <li class="nav-item">
+                  <a class="nav-link text-success  px-0" href="#"><i class="fa-brands fa-windows"></i> &ensp; PORTFOLIO</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-black px-0" href="#"><i class="fa-solid fa-user"></i> &ensp; ABOUT</a>
+                </li>
+                <li class="nav-item ">
+                  <a class="nav-link text-black px-0" href="#"><i class="fa-solid fa-phone"></i> &ensp; CONTACT</a>
+                </li>
+              </ul>
+
+              <div class="m-3 d-flex justify-content-evenly">
+                <i class="fa-brands fa-whatsapp"></i>
+                <i class="fa-brands fa-github"></i>
+                <i class="fa-brands fa-linkedin"></i>
+                <i class="fa-brands fa-x-twitter"></i>
+              </div>
+            </div>
+          </div>
           
+          <!-- Button to open the offcanvas sidebar -->
+          <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#demo">
+            Open Offcanvas Sidebar
+          </button>
         </nav>
         <!-- End nav section  -->
       </div>
