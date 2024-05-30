@@ -5,4 +5,7 @@ Add setup and favicon icon
 <br>
 Basic file setup
 <br>
-Create heeader
+Add header
+<br>
+Add navbar
+
