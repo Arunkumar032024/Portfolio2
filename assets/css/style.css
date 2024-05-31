@@ -23,6 +23,12 @@ header {
 /* End nav style */
 
 /* main style */
+.card{
+    border-radius: 0;
+}
+.card img{
+    border-radius: 0;
+}
 /* End main style */
 
 /* footer style */
