@@ -10,3 +10,5 @@ Add header
 Add navbar
 <br>
 Add cards
+<br>
+Add About content

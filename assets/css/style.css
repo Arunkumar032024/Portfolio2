@@ -29,6 +29,19 @@ header {
 .card img{
     border-radius: 0;
 }
+
+#pagination ul li a{
+    border: none;
+    color: #000;
+    transition: all 0.3s ease-in-out;
+}
+#pagination ul li a:hover{
+    background-color: #000;
+    color: #fff;
+}
+.progress{
+    height:30px;
+}
 /* End main style */
 
 /* footer style */
