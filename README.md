@@ -14,3 +14,5 @@ Add cards
 Add About content
 <br>
 Add voucher content
+<br>
+Add Contact section
