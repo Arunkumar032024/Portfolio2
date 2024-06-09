@@ -19,9 +19,6 @@ header {
 
 /* End header style */
 
-/* nav style */
-/* End nav style */
-
 /* main style */
 .card{
     border-radius: 0;
@@ -45,7 +42,16 @@ header {
 .contact{
     background-color: #969494;
 }
+
 /* End main style */
 
 /* footer style */
+.footer p{
+    text-align: justify;
+}
+.footer img{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
 /* End footer style */

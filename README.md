@@ -16,3 +16,7 @@ Add About content
 Add voucher content
 <br>
 Add Contact section
+<br>
+Add footer section
+<br>
+Complete site
